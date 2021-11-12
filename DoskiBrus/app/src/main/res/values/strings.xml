@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DoskaBrus</string>
+    <string name="txt_shirina">Ширина:</string>
+    <string name="txt_vysota">Высота:</string>
+    <string name="txt_dlina">Длина:</string>
+    <string name="txt_header">Размер доски</string>
+    <string name="mynul">0</string>
+    <string name="txt_edizm">(мм)</string>
+    <string name="txt_prodza">Продают за</string>
+    <string name="txt_m3">Куб.М</string>
+    <string name="txt_m">Погон.М</string>
+    <string name="txt_m2">Кв.М</string>
+    <string name="txt_price">Цена за </string>
+    <string name="txt_nugno">Нужно купить</string>
+    <string name="txt_dsk">Доски</string>
+    <string name="txt_val">руб.</string>
+    <string name="txt_itog">Итого:</string>
+    <string name="txt_grid_title">Цена (руб)</string>
+    <string name="txt_ras">Расчет</string>
+    <string name="txt_info">Информация</string>
+    <string name="txt_close">Возврат</string>
+    <string name="txt_infofull">    Расчет Доски,бруса, вагонки
+\n\n При покупке доски, бруса, вагонки часто продавец дает цену за различные единицы материала. \n Чаще всего встречается цена за кубический метр (куб), но встречается цена за доску, за погонный метр, за квадратный метр. \n  Если требуется определенное количество досок, кубических метров, квадратных метров (например, для вагонки или половой доски) или погонных метров, то аккуратное сравнение цен бывает затруднено. \n  Для оперативного решения этой проблемы и предназначено это небольшое приложение – простой калькулятор для строителей.
+        \n\n Введите размеры доски, выберите условия и цену продажи, а также ваши требования, включая количество материала. Нажмите кнопку \"Расчет\".
+\n\n©Степной В.Н., 2021
+</string>
+</resources>

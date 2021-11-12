@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#E6400C</color>
+    <color name="purple_700">#F1AC46</color>
+    <!--  Цвет курсора-->
+    <color name="teal_200">#F1C076</color>
+    <color name="teal_700">#C9DA28</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--  Цвет меню-->
+    <color name="main">#E68F51</color>
+    <!--  Цвет строки состояния-->
+    <color name="main_var">#DB9665</color>
+    <color name="main_txt">#2B0B01</color>
+    <!--  Цвет выделения-->
+    <color name="main_vyd">#7C5026</color>
+    <color name="col_rez">#FFD09265</color>
+    <color name="col_input">#D5A57D</color>
+    <!--  Цвет фона текста инфо-->
+    <color name="col_info">#F5E7DC</color>
+</resources>

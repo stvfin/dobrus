@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/ab_calc"
+        android:icon="@drawable/ic_calc"
+        android:title="@string/txt_ras"
+        app:showAsAction="withText|always" />
+    <item
+        android:id="@+id/ab_info"
+        android:icon="@drawable/ic_info_24"
+        android:title="@string/txt_info"
+        app:showAsAction="ifRoom|withText" />
+-->
+</menu>
